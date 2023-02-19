@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319565145442",
+    "firebase_url": "https://dept-of-met-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dept-of-met",
+    "storage_bucket": "dept-of-met.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319565145442:android:b27daa087d507dd40d383b",
+        "android_client_info": {
+          "package_name": "com.example.department_of_meteorology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319565145442-0j8996bjdi4v0tqf0ocs0tm0j63k2iha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7P03aZbyk3SiOHfc1geQlBREeEjUAnR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319565145442-0j8996bjdi4v0tqf0ocs0tm0j63k2iha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
